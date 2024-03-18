@@ -1,4 +1,4 @@
-<h1>Hi, I'm Brandon, an aspiring <a href="https://linkedin.com/in/brandon-patman-4049032a1">IT Professional</a>☺</h1>
+<h1>Hi, I'm Brandon, an aspiring <a href="https://linkedin.com/in/brandon-patman-4049032a1">IT/Cybersecurity Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
